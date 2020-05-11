@@ -6,4 +6,13 @@ Sound
 
 Image 
 
-Action -  onclick , hold , drag drop , swipe
+Action Movement-  
+onclick - one tap ,double tap 
+
+hold -  
+
+drag drop - on drag, on drop 
+
+swipe -up ,down ,right, left 
+
+sensor - gyroscope
