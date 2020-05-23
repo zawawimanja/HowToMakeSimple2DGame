@@ -1,5 +1,9 @@
 Object animator
 
+Property Animation
+Drawable Animation
+View Animation
+
 AnimatedDrawable - frame by frame ,need lot of image
 
 Gif using library - imageview
